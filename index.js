@@ -8,6 +8,5 @@ const multiply = (x, y) => {
   return x * y;
 };
 const divide = (x, y) => {
-  const t = 0;
-  return x / t;
+  return x / y;
 };
